@@ -63,12 +63,12 @@ git push origin main
 
 ```
 
-## Titantic Data Set
+## Tips Data Set
 
-This data set contains information about passenges onboard the Titanic.
-It includes features such as age, gender, fare, cabin and survival status.
+This data set contains records representing the tipping behavior of customers.
+It includes data such as tip, sex, smoker, day and size.
 
 Link to the data set:
-https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 
 
