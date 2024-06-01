@@ -62,3 +62,13 @@ git commit -m "Start New Project"
 git push origin main
 
 ```
+
+## Titantic Data Set
+
+This data set contains information about passenges onboard the Titanic.
+It includes features such as age, gender, fare, cabin and survival status.
+
+Link to the data set:
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+
+
