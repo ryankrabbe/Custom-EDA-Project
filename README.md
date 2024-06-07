@@ -127,9 +127,9 @@ I transformed the data by renaming two columns and adding a new column to the da
 ## Initial Visualizations
 
 I created different graphs and charts to visualize the data and answer the three following questions:
-How do the different numercial columns in the tips data set correlate with each other?
-How do the tip amount and total_bill amount vary between the different days of the week?
-How do the tip amount and total_bill amount vary between different genders?
+1. How do the different numercial columns in the tips data set correlate with each other?
+2. How do the tip amount and total_bill amount vary between the different days of the week?
+3. How do the tip amount and total_bill amount vary between different genders?
 
 ## Push final changes to my github
 
